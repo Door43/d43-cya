@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cya:home|Door43 (cya)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cya|d43-cya repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cya/archive/master.zip|d43-cya.zip]]
+
+**Recent Changes**
+{{changes>ns = cya}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cya|Ethnologue data]]
+
